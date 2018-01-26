@@ -218,7 +218,7 @@ ul {
 .image001 {
     
     max-height: 100%;
-    background: url("/image/sdsdsdsds.jpg"); 
+    background: url("image/sdsdsdsds.jpg"); 
     background-size: cover;
 }
 .navbar-toggleable-md {
@@ -279,7 +279,7 @@ a:focus {
 
 }
 .fon1{
-    background-image: url("/image/fon1.png");
+    background-image: url("image/fon1.png");
     background-size: 100%;
 }
 .fon2{
