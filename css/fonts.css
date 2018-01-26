@@ -1,0 +1,58 @@
+@font-face {
+    font-family: Montserrat-Medium; /* name font */
+    src: url(fonts/Montserrat-Medium.otf); /* ֿףעü ך פאיכף סמ רנטפעמל */
+   }
+@font-face {
+    font-family: NunitoSans-Regular; /* name font */
+    src: url(fonts/NunitoSans-Regular.ttf); /* ֿףעü ך פאיכף סמ רנטפעמל */
+   }
+a {
+    font-family: Montserrat-Medium;
+   }
+h1{
+    font-size: 38px;
+    font-family: Montserrat-Medium;
+    }
+h2{
+    font-family: Montserrat-Medium;
+    }
+h3{
+    font-family: Montserrat-Medium;
+    }
+p {
+    font-family: NunitoSans-Regular;
+}
+.NunitoSans-Regular {
+    font-size: 15px;
+    font-family: NunitoSans-Regular;
+    line-height: 1.6;
+    text-align: left;
+    
+}
+.cont {
+    font-size: 30px;  
+    color: rgb(23, 23, 23);          
+    line-height: 2.8;     
+    font-family: NunitoSans-Regular;
+}
+.conp {
+  font-size: 16px;
+  font-family: NunitoSans-Regular;
+  color: rgb(120, 120, 120);
+  line-height: 1.5;
+}
+
+
+
+.cons {
+    font-size: 16px;
+  font-family: "Nunito Sans";
+  color: rgb(120, 120, 120);
+  font-weight: bold;
+  line-height: 2.25;
+  text-align: left;
+    margin-left: -40px;
+}
+strong {
+    color: rgb(23, 23, 23);!important;
+}

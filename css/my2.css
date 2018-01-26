@@ -1,0 +1,33 @@
+.hidden {
+    display: none;
+}
+.masonry-container {
+margin-left: -15px;
+margin-right: -15px;
+margin-bottom: -1px;
+}
+
+.item {
+    height: 300px;
+}
+.descr{
+    opacity: 0;
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(16, 201, 195, 0.72);
+    padding-top: 116px;
+    text-align: center;
+    z-index: 1; 
+    transition: 0.90s;
+}
+.descr:hover {
+    opacity: 1;
+}
+
+.text-p-home {
+    padding-left: 17%;
+    padding-right: 17%;
+}
