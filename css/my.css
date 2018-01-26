@@ -14,7 +14,7 @@
 }
 .image_here1 {
     height: 360px;
-    background: url("/image/header.jpg");
+    background: url("image/header.jpg");
     background-position: center;
 }
 
